@@ -5,8 +5,8 @@ charset-normalizer==3.2.0
 click==8.1.4
 filelock==3.12.2
 Flask==2.0.2
-fsspec==2023.6.0
-huggingface-hub==0.16.4
+fsspec==2023.1.0
+huggingface-hub==0.15.0
 idna==3.4
 importlib-metadata==6.8.0
 itsdangerous==2.1.2
